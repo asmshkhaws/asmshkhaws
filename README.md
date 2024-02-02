@@ -1,15 +1,15 @@
-![MasterHead](https://static.vecteezy.com/system/resources/previews/011/166/144/original/devops-banner-web-icon-illustration-concept-for-software-engineering-and-development-with-an-icon-of-a-plan-code-build-test-release-deploy-operate-and-monitor-vector.jpg)
+![MasterHead]([https://static.vecteezy.com/system/resources/previews/011/166/144/original/devops-banner-web-icon-illustration-concept-for-software-engineering-and-development-with-an-icon-of-a-plan-code-build-test-release-deploy-operate-and-monitor-vector.jpg](https://codilime.com/static/7150aa1f015beb5165e9ee4640851ecc/header-data-science-vs-data-analytics.png)
 <h1 align="center">Hi 👋, I'm ASIM SHEIKH</h1>
-<h3 align="center">A passionate DevOps Engineer from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1480650/screenshots/4739771/autodevops-dribbble-gif.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asmshkhaws&label=Profile%20views&color=0e75b6&style=flat" alt="asmshkhaws" /> </p>
 
 <p align="left"> <a href="https://twitter.com/asim__ejaz" target="blank"><img src="https://img.shields.io/twitter/follow/asim__ejaz?logo=twitter&style=for-the-badge" alt="asim__ejaz" /></a> </p>
 
-- 🌱 I’m currently learning **DevSecOps**
+- 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Devops Approach**
+- 💬 Ask me about **Data Analysis Approach**
 
 - 📫 How to reach me **asm.shkh@gmail.com**
 
