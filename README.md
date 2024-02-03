@@ -7,7 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/asim__ejaz" target="blank"><img src="https://img.shields.io/twitter/follow/asim__ejaz?logo=twitter&style=for-the-badge" alt="asim__ejaz" /></a> </p>
 
-- 🌱 I’m currently learning **AI & ML**
+- 🌱 I’m currently learning **NumPy**
+
+- 👨‍💻 All of my projects are available at [https://www.novypro.com/profile_projects/asimsheikh](https://www.novypro.com/profile_projects/asimsheikh)
 
 - 💬 Ask me about **SQL, EXCEL, POWER BI, PYTHON**
 
@@ -16,6 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/asim__ejaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asim__ejaz" height="30" width="40" /></a>
+<a href="https://instagram.com/asimejaz07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asimejaz07" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
