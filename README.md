@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/asim__ejaz" target="blank"><img src="https://img.shields.io/twitter/follow/asim__ejaz?logo=twitter&style=for-the-badge" alt="asim__ejaz" /></a> </p>
 
-- 🌱 I’m currently learning **NumPy**
+- 🌱 I’m currently learning **Cloud Computing**
 
 - 👨‍💻 All of my projects are available at [https://www.novypro.com/profile_projects/asimsheikh](https://www.novypro.com/profile_projects/asimsheikh)
 
