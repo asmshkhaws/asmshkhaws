@@ -9,7 +9,9 @@
 
 - 🌱 I’m currently learning **Cloud Computing**
 
-- 👨‍💻 All of my projects are available at [https://www.novypro.com/profile_projects/asimsheikh](https://www.novypro.com/profile_projects/asimsheikh)
+- 👨‍💻 All of my projects are available at my [website](https://asmshkhaws.github.io/Data_Analyst_Website/)
+
+- 👨‍💻 All of my BI projects are available at [Power BI](https://www.novypro.com/profile_projects/asimsheikh)
 
 - 💬 Ask me about **SQL, EXCEL, POWER BI, PYTHON**
 
