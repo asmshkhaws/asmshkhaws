@@ -1,6 +1,6 @@
 ![MasterHead](https://static.vecteezy.com/system/resources/previews/009/233/535/original/data-analysis-banner-web-icon-set-analytics-search-data-mining-data-filter-pie-chart-presentation-mind-map-database-illustration-concept-vector.jpg)
 <h1 align="center">Hi 👋, I'm Asim Sheikh</h1>
-<h3 align="center">A passionate statician / data analyst based in  India</h3>
+<h3 align="center">A passionate statistician / data analyst based in  India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/0*tD5kEC2JYcKHH0zO.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asmshkhaws&label=Profile%20views&color=0e75b6&style=flat" alt="asmshkhaws" /> </p>
